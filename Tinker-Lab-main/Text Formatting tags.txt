@@ -1,0 +1,14 @@
+<!DOCTYPE html"
+<head>
+<title> Example on Text Formatting Tags </title>
+</head>
+<body>
+<P> <b> Bold Face </b> <bn>
+<strong> this is also same like bold but shows
+importance </strong> </P>
+<P> <i> The text will appear as italics <i> </p>
+<p> <u> This text will appear in underline </u> </p>
+<p> New Paragraph will be started from this tag we can write the paragraph as
+many number of lines and sentences </P>
+</body>
+</html>

@@ -1,0 +1,22 @@
+<!DOCTYPE = html>
+<html>
+<head>
+<title> Table </title>
+</head>
+<body>
+<table>
+<tr>
+<th> PRN </th>
+<th> Name </th>
+<th> Marks Sub 1 </th>
+<th> Marks Sub 2 </th>
+<th> Maks Sub 3 </th>
+</tr>
+<td> 25070521063 </td>
+<td> Yashash </td>
+<td> 60 </td>
+<td> 70 </td>
+<td> 80 </td>
+</table)
+</body>
+</html>
